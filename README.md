@@ -1,7 +1,7 @@
 # water-quality
 
 # Overview
-The pollution readings of 545 water quality monitoring stations in India for the year 2015 are uploaded. specific variables include BOD, pH, temperature, nitrate and coliform concentration of Indian rivers. This is an ongoing project: data for more stations and years will be uploaded on a periodical basis
+The pollution readings of 769 water quality monitoring stations in India for the year 2015 are uploaded. specific variables include BOD, pH, temperature, nitrate and coliform concentration of Indian rivers. This is an ongoing project: data for more stations and years will be uploaded on a periodical basis
 
 # Methodology
 
@@ -10,7 +10,7 @@ Currently I have stacked river systems together for a goven year and added the n
 
 # List of variables
 
-Table 1 contains the compiled values. Table 22-29 contain uncleaned data, which hasn't been appended to the 'main' cross section yet.
+Table 1 contains the compiled values. 
 The identifying variables are: Station code, Name, State and River
 The reading vars: the max and min values of the following vars:  temperature, dissolved oxygen, pH, conductivity, BOD, Nitrates, Fecal coliform and total coliform. The units are mentioned alongisde the variables and have been directly reported from CPCB repositiory.
 
